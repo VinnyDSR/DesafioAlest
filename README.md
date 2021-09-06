@@ -11,8 +11,8 @@ Atualmente ela está iniciando na porta 4000 do localhost, de endereço localhos
 
 Front-end:
 Para o front-end foi utilizado o HTML, CSS e React.
-Foi feito um documento chamado 'data.js para representar uma resposta da API em formado de json, que
-para provar que consegue mostrar os produtos na tela.
+Foi feito um documento chamado 'data.js para representar uma resposta da API em formado de json,
+para provar que o front consegue mostrar os produtos na tela.
 
 Faltou apenas conectar o front-end com a API, o resto foi todo construído.
 
